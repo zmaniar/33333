@@ -1,4 +1,8 @@
-###New - Make A Class Free
+---
+layout: post
+title: New - Make A Class Free
+tags: New Feature, Passes
+---
 
 New today - you can now mark any individual class in Punchpass as 'Free'. This let's you take attendance for the class, without punching any customer cards. The class attendance is listed in the customer account, so you'll have a record of who attended. (For those familiar with Punchpass the attendance is marked as a 'no pass' attendance, and is a 'forgiven' attendance.)
 
